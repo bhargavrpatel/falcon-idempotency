@@ -1,2 +1,3 @@
-# falcon-idempotency
-Idempotent requests for Falcon (https://falconframework.org) using Redis
+# Falcon Idempotency
+
+Tooling to add idempotency to your (Falcon)[https://falconframework.org] APIs.
