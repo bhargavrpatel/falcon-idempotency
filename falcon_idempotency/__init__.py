@@ -1,2 +1,2 @@
-def mock_function(a, b):
-    return a + b
+class SentinelException(Exception):
+    pass
