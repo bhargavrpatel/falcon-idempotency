@@ -7,9 +7,6 @@ Falcon Idempotency
     :target: https://api.travis-ci.org/bhargavrpatel/falcon-idempotency.svg
 .. image:: https://codecov.io/gh/bhargavrpatel/falcon-idempotency/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/bhargavrpatel/falcon-idempotency
-.. image:: https://api.codacy.com/project/badge/Grade/29583fa5907a4b3bac5f474588140747
-    :alt: Codacy Badge
-    :target: https://www.codacy.com/app/bhargavrpatel/falcon-idempotency?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bhargavrpatel/falcon-idempotency&amp;utm_campaign=Badge_Grade
 .. image:: https://pyup.io/repos/github/bhargavrpatel/falcon-idempotency/shield.svg
     :alt: Updates
     :target: https://pyup.io/repos/github/bhargavrpatel/falcon-idempotency
