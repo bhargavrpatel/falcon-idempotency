@@ -9,5 +9,5 @@ black==18.9b0
 invoke==1.2.0
 flake8==3.7.5
 pipdeptree==0.13.2
-isort==4.3.4
+isort==5.9.3
 mockredispy==2.9.3
