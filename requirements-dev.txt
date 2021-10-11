@@ -7,7 +7,7 @@ codecov==2.0.15
 coverage==4.5.2
 black==18.9b0
 invoke==1.2.0
-flake8==3.7.5
+flake8==4.0.1
 pipdeptree==0.13.2
 isort==4.3.4
 mockredispy==2.9.3
